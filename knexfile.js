@@ -4,7 +4,7 @@ module.exports = {
 
     client: 'mysql',
     connection: {
-      database: 'sistema_cad',
+      database: 'cadastro',
       user:     'root',
       password: 'adm@1234'
     },
